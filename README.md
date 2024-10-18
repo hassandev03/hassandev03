@@ -2,7 +2,6 @@
 **Passionate Developer | AI & ML Enthusiast | Problem Solver**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hassandev03/)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=Github&logoColor=white)](https://github.com/hassandev03)
 
 ---
 
@@ -25,7 +24,7 @@ I'm Muhammad Hassan Raza, a passionate coder who loves to turn ideas into realit
 ---
 
 ### 🌱 **What I'm Learning**  
-- **Machine Learning** (Theoretical knowledge, hands-on coming soon)  
+- **Machine Learning**
 - **Dart/Flutter** for mobile app development  
 - **Databases** (exploring both relational and NoSQL systems)
 
